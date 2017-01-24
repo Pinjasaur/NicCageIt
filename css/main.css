@@ -72,7 +72,7 @@ textarea {
 }
 
 html {
-    background: url(/img/bg_img.gif);
+    background: url(../img/bg_img.gif);
     background-size: cover;
 }
 
