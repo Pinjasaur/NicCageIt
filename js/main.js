@@ -5,14 +5,14 @@
 		HEIGHT = 600;
 
 	var cages = [
-		"/img/cage01.png",
-		"/img/cage02.png",
-		"/img/cage03.png",
-		"/img/cage04.png",
-		"/img/cage05.png",
-		"/img/cage06.png",
-		"/img/cage07.png",
-		"/img/cage08.png"
+		"img/cage01.png",
+		"img/cage02.png",
+		"img/cage03.png",
+		"img/cage04.png",
+		"img/cage05.png",
+		"img/cage06.png",
+		"img/cage07.png",
+		"img/cage08.png"
 	];
 
 	var canvas = document.getElementById("canvas");
